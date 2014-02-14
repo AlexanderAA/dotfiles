@@ -1,0 +1,15 @@
+" GENERAL SETTINGS
+set columns=80
+"
+" INDENTATION
+set autoindent
+set shiftwidth=4
+set tabstop=4
+set ts=4
+"
+" TELL ME WHEN I DO SOMETHING STUPID
+set flash
+set verbose
+"
+" SHOW LINE NUMBERS, COLUMN/ROW POSITION
+set ruler
